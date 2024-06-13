@@ -1,0 +1,2 @@
+# > jingdong
+^https:\/\/m.360buyimg.com\/mobilecms\/.*jpg$ url reject-200
